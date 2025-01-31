@@ -1,31 +1,31 @@
 [
     {
         "month":3,
-        "count":370
+        "count":371
     },
     {
         "month":4,
-        "count":352
+        "count":356
     },
     {
         "month":5,
-        "count":340
-    },
-    {
-        "month":10,
-        "count":283
+        "count":343
     },
     {
         "month":11,
-        "count":282
+        "count":294
     },
     {
-        "month":6,
-        "count":263
+        "month":10,
+        "count":286
     },
     {
         "month":12,
-        "count":245
+        "count":265
+    },
+    {
+        "month":6,
+        "count":264
     },
     {
         "month":8,
@@ -33,18 +33,18 @@
     },
     {
         "month":2,
-        "count":242
+        "count":244
     },
     {
         "month":7,
-        "count":232
+        "count":233
     },
     {
         "month":9,
-        "count":217
+        "count":219
     },
     {
         "month":1,
-        "count":200
+        "count":204
     }
 ]
