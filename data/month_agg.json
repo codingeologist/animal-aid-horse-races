@@ -1,11 +1,11 @@
 [
     {
         "month":3,
-        "count":371
+        "count":380
     },
     {
         "month":4,
-        "count":356
+        "count":357
     },
     {
         "month":5,
@@ -17,11 +17,15 @@
     },
     {
         "month":10,
-        "count":286
+        "count":288
+    },
+    {
+        "month":2,
+        "count":268
     },
     {
         "month":12,
-        "count":265
+        "count":266
     },
     {
         "month":6,
@@ -32,19 +36,15 @@
         "count":245
     },
     {
-        "month":2,
-        "count":244
-    },
-    {
         "month":7,
         "count":233
     },
     {
-        "month":9,
-        "count":219
+        "month":1,
+        "count":222
     },
     {
-        "month":1,
-        "count":204
+        "month":9,
+        "count":219
     }
 ]

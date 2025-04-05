@@ -1,7 +1,7 @@
 [
     {
         "year":2024,
-        "count":320
+        "count":323
     },
     {
         "year":2021,
@@ -52,27 +52,27 @@
         "count":145
     },
     {
-        "year":2016,
-        "count":136
+        "year":2020,
+        "count":140
     },
     {
-        "year":2007,
-        "count":135
+        "year":2016,
+        "count":136
     },
     {
         "year":2013,
         "count":132
     },
     {
-        "year":2020,
-        "count":130
-    },
-    {
         "year":2015,
         "count":128
     },
     {
+        "year":2007,
+        "count":126
+    },
+    {
         "year":2025,
-        "count":2
+        "count":53
     }
 ]

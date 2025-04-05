@@ -21,6 +21,8 @@ with st.sidebar:
     st.write("© codingeologist")
     st.page_link(page="https://codingeologist.github.io/", label="My website")
     st.page_link(page="https://github.com/codingeologist", label="My Github")
+    st.write("Dataset includes statistics up until: 04/04/2025")
+    st.write("1 day before the Grand National 2025")
 
 
 @st.cache_data
